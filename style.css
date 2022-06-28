@@ -1,0 +1,54 @@
+img{
+	width: 100% ;
+	height: 400px ;
+	vertical-align: top;
+}
+.krisa, .lyusya, .uwu, .tv{
+	width: 300px;
+	border: 2px #285c2e solid ;
+	border-left-width: 2px ;
+	border-right-style: double ;
+	display : inline-block;
+	background-color: #d587e8 ;
+	height: 50%;
+	margin :0px 40px;
+	padding: 10px 40px;
+}
+
+h2{
+	color:#eaff00;
+	font-size: 30px;
+}
+
+.krisa{
+	font-size: 14px
+}
+body{
+	background-image: url(images/90w.jpg);
+	margin: 0;
+
+}
+a{
+	text-decoration: none;
+}
+.menu{
+	background-image:url(images/20t.jpg);
+	width: 20% ;
+	height: 100% ;
+	position: fixed;
+    padding:-2%;
+    top: 80%;
+    left: 80%;
+}
+.menu a{
+	color: #3e1d5e ;
+	text-decoration: none ;
+	display: block;
+}
+#contant{
+	width: 70%;
+	margin-right:24%;
+	padding: 3%;
+
+
+}
